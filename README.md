@@ -1,6 +1,4 @@
-# Bot Agent Java Dockerfile
-
-Simple example bot in Java
+# Bot Agent Highrise Dockerfile
 
 ## Copyright and license
 
