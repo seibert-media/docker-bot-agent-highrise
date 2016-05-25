@@ -1,4 +1,4 @@
-# Bot Agent Highrise Dockerfile
+# Highrise Bot Dockerfile
 
 ## Copyright and license
 
